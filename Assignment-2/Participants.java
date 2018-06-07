@@ -11,7 +11,7 @@ class Participants
     
         //Fill in your details in the same format as given above
 
-        
+        System.out.println("");
         
         
         
