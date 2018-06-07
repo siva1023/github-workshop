@@ -5,11 +5,12 @@ class Participants
         Student students[] = new Student[45];
     
         students[0] = new Student();
-        students[0].name = "Sample";
-        students[0].rollnum = "CS16D005";
+        students[0].name = "Nalluri Siva Nagendra Babu";
+        students[0].rollnum = "CS16D001";
         students[0].likegit = true;
     
         //Fill in your details in the same format as given above
+
         
         
         
